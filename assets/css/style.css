@@ -35,7 +35,7 @@
 }
 
 .height {
-  height: 500px;
+  height: 650px;
 }
 
 
@@ -90,5 +90,26 @@ main h1 {
   padding-top: 120px;
   font-size: 4.5rem;
 }
+
+/*Jumbotron*/
+.jumbotron-image {
+  height: 300px;
+}
+
+
+.jumbotron-image img {
+  height: 300px;
+}
+
+.jumbotron-info {
+  width: 30%;
+}
+
+.jumbotron-info p {
+  font-size: 20px;
+  margin-bottom: 15px;
+
+}
+
 
 /*Footer*/
