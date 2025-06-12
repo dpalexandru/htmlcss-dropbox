@@ -9,6 +9,12 @@
 
 /*Utility*/
 
+.col-blue {
+  color: blue;
+}
+
+
+
 .border-gray {
   border: 1.5px solid rgb(144, 144, 144);
 }
@@ -53,6 +59,18 @@
   flex-direction: column;
 }
 
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mr-5px {
+  margin-right: 5px;
+}
+
+.col-gray {
+  color: gray;
+}
+
 /*Leyout*/
 
 .container1000 {
@@ -71,7 +89,7 @@
 
 .col260 {
   width: 280px;
-  height: 500px;
+  height: 680px;
 }
 
 .col100 {
@@ -190,6 +208,25 @@ h3 {
 .card-title {
   border-bottom: 1.5px solid rgb(144, 144, 144);
   padding: 10px;
+}
+
+.card-ifo h4 {
+  font-size: 25px;
+}
+
+.prova-gratis {
+  background-color: #0360FE;
+  padding: 5px 10px;
+
+}
+
+.prova-gratis a {
+  color: white;
+  text-decoration: none;
+}
+
+h6 {
+  font-size: 20px;
 }
 
 
