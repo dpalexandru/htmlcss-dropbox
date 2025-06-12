@@ -13,7 +13,23 @@
   color: blue;
 }
 
+.bg-blue {
+  color: white;
+  border: 6px solid blue;
+  border-radius: 50px;
+  background-color: blue;
+  font-size: 12px;
+  margin-right: 5px;
 
+}
+
+.bg-white {
+  color: white;
+  border: 4px solid gray;
+  border-radius: 50px;
+  margin-right: 5px;
+
+}
 
 .border-gray {
   border: 1.5px solid rgb(144, 144, 144);
@@ -80,7 +96,6 @@
 .container900 {
   max-width: 900px;
   height: 1000px;
-  background-color: aqua;
 }
 
 .row {
@@ -94,7 +109,7 @@
 
 .col100 {
   width: 100%;
-  height: 300px;
+  height: 220px;
 }
 
 .col {
@@ -103,6 +118,10 @@
 
 .col60 {
   width: 60%;
+}
+
+.p-15 {
+  padding: 15px;
 }
 
 
@@ -148,6 +167,7 @@ header img {
 }
 
 .hr-short {
+
   border: 1px solid gray;
   width: 40px;
   margin-top: 25px;
@@ -235,7 +255,8 @@ h6 {
 
 .cta-button {
   background-color: #0360FE;
-  padding: 10px 20px;
+  padding: 7px 30px;
+  margin-left: 100px;
 }
 
 .card-enterprise h4 {
@@ -244,9 +265,19 @@ h6 {
 }
 
 .card-enterprise p {
-  font-size: 25px;
-  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 40px;
 }
 
+.card-enterprise a {
+  color: white;
+  text-decoration: none;
+}
+
+.time-selection {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
 
 /*Footer*/
