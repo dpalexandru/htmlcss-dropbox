@@ -1,0 +1,41 @@
+/*Reset*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/*Utility*/
+
+.align-items-center {
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.margin-0-auto {
+  margin: 0 auto;
+  ;
+}
+
+
+/*Leyout*/
+.container1200 {
+  max-width: 1200px;
+}
+
+.row {
+  display: flex;
+}
+
+/*Header*/
+
+header {}
+
+
+/*Main*/
+/*Footer*/
