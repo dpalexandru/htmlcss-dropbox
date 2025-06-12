@@ -120,7 +120,16 @@ header img {
 
 /*Main*/
 
+.card-ifo,
+.card-title {
+  padding: 20px;
+}
 
+.hr-short {
+  border: 1px solid gray;
+  width: 40px;
+  margin-top: 25px;
+}
 
 /*Jumbotron*/
 
