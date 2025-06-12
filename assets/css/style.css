@@ -45,9 +45,7 @@
   background-color: #3b6f9a;
 }
 
-.container1200 {
-  max-width: 1200px;
-}
+
 
 .row {
   display: flex;
@@ -74,6 +72,10 @@ header ul li a {
   color: black;
 }
 
+header img {
+  margin-left: 15px;
+}
+
 .btn-inizia {
   background-color: #0360FE;
   padding: 5px 10px;
@@ -82,7 +84,6 @@ header ul li a {
   margin-left: 0px;
   cursor: pointer;
 }
-
 
 /*Main*/
 
