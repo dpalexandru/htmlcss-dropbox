@@ -30,8 +30,21 @@
   margin-left: 0;
 }
 
+.bg-lightblue {
+  background-color: #B3CFE6;
+}
+
+.height {
+  height: 500px;
+}
+
 
 /*Leyout*/
+.container1000 {
+  max-width: 1000px;
+  background-color: #3b6f9a;
+}
+
 .container1200 {
   max-width: 1200px;
 }
@@ -44,6 +57,10 @@
 
 header {
   padding: 20px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: white;
 }
 
 header ul li {
@@ -64,9 +81,14 @@ header ul li a {
   color: white;
   margin-left: 0px;
   cursor: pointer;
-
 }
 
 
 /*Main*/
+
+main h1 {
+  padding-top: 120px;
+  font-size: 4.5rem;
+}
+
 /*Footer*/
