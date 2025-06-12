@@ -35,14 +35,17 @@
 }
 
 .height {
-  height: 650px;
+  height: 690px;
+}
+
+.mt-20 {
+  margin-top: 20px;
 }
 
 
 /*Leyout*/
 .container1000 {
   max-width: 1000px;
-  background-color: #3b6f9a;
 }
 
 
@@ -87,19 +90,23 @@ header img {
 
 /*Main*/
 
+
+
+/*Jumbotron*/
+
 main h1 {
   padding-top: 120px;
   font-size: 4.5rem;
+  padding-bottom: 30px;
 }
 
-/*Jumbotron*/
 .jumbotron-image {
   height: 300px;
 }
 
 
 .jumbotron-image img {
-  height: 300px;
+  height: 420px;
 }
 
 .jumbotron-info {
@@ -107,10 +114,36 @@ main h1 {
 }
 
 .jumbotron-info p {
-  font-size: 20px;
-  margin-bottom: 15px;
+  font-size: 19px;
+  margin-bottom: 30px;
 
 }
+
+.jumbotron-info a {
+  text-decoration: none;
+}
+
+.prova-gratuita {
+  background-color: #0360FE;
+  color: white;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+.arrow-button {
+  font-size: 40px;
+  color: black;
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-top: 1px solid rgb(207, 206, 206);
+}
+
+
+/*sezione prezzi*/
+
 
 
 /*Footer*/
