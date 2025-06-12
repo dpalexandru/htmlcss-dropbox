@@ -27,7 +27,10 @@
 
 .margin-0-auto {
   margin: 0 auto;
-  ;
+}
+
+.text-align-center {
+  text-align: center;
 }
 
 .margin-left0 {
@@ -46,6 +49,9 @@
   margin-top: 20px;
 }
 
+.flex-direction-column {
+  flex-direction: column;
+}
 
 /*Leyout*/
 
@@ -72,6 +78,11 @@
   width: 100%;
   height: 300px;
 }
+
+.col {
+  display: flex;
+}
+
 
 /*Header*/
 
@@ -167,7 +178,10 @@ h3 {
   font-size: 2.5rem;
 }
 
-
+.card-title {
+  border-bottom: 1.5px solid rgb(144, 144, 144);
+  padding: 10px;
+}
 
 
 
