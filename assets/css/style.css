@@ -101,6 +101,10 @@
   display: flex;
 }
 
+.col60 {
+  width: 60%;
+}
+
 
 /*Header*/
 
@@ -229,6 +233,20 @@ h6 {
   font-size: 20px;
 }
 
+.cta-button {
+  background-color: #0360FE;
+  padding: 10px 20px;
+}
+
+.card-enterprise h4 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.card-enterprise p {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
 
 
 /*Footer*/
