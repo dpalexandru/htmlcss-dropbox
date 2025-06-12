@@ -95,7 +95,6 @@
 
 .container900 {
   max-width: 900px;
-  height: 1000px;
 }
 
 .row {
@@ -278,6 +277,41 @@ h6 {
 .time-selection {
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+/*sezione partner*/
+
+.company-pic img {
+  width: 550px;
+}
+
+.company-partners {
+  margin-top: 100px;
+}
+
+.company-info {
+  padding: 30px;
+}
+
+.company-info h4 {
+  font-size: 25px;
+
+}
+
+
+.company-info p {
+  margin-bottom: 50px;
+}
+
+.btn-partner {
+  padding: 5px 10px;
+  font-size: 25px;
+  border: 1px solid gray;
+}
+
+.btn-partner a {
+  text-decoration: none;
+  color: gray;
 }
 
 /*Footer*/
