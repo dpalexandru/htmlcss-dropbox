@@ -26,6 +26,10 @@
   ;
 }
 
+.margin-left0 {
+  margin-left: 0;
+}
+
 
 /*Leyout*/
 .container1200 {
@@ -51,6 +55,16 @@ header ul li {
 header ul li a {
   text-decoration: none;
   color: black;
+}
+
+.btn-inizia {
+  background-color: #0360FE;
+  padding: 5px 10px;
+  border: 1px solid black;
+  color: white;
+  margin-left: 0px;
+  cursor: pointer;
+
 }
 
 
