@@ -75,6 +75,10 @@
   flex-direction: column;
 }
 
+.mb-10 {
+  margin-bottom: 10px;
+}
+
 .mb-40 {
   margin-bottom: 40px;
 }
@@ -378,4 +382,13 @@ footer ul li {
 footer a {
   color: white;
   text-decoration: none;
+}
+
+footer hr {
+  color: lightgray;
+  width: 100px;
+}
+
+footer span {
+  margin-left: 5px;
 }
