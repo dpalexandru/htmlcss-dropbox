@@ -446,3 +446,27 @@ footer span {
 .dropdown-menu li {
   margin: 5px 5px;
 }
+
+/*Css pagina inizia ripasso*/
+
+.ripasso {
+  padding-top: 100px;
+}
+
+.col-33 {
+  width: calc(100%/3);
+}
+
+.box {
+  height: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.gap {
+  gap: 10px;
+}
+
+.col-33gap {
+  width: calc(100%/3 - 10px);
+}
