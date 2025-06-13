@@ -134,7 +134,7 @@ body {
 
 .col260 {
   width: 280px;
-  height: 680px;
+  height: 710px;
 }
 
 .col100 {
@@ -193,10 +193,18 @@ header img {
 
 /*Main*/
 
+
+
 .card-ifo,
 .card-title {
   padding: 20px;
+
 }
+
+.card-ifo {
+  padding-bottom: 50px;
+}
+
 
 .hr-short {
 
@@ -469,4 +477,12 @@ footer span {
 
 .col-33gap {
   width: calc(100%/3 - 10px);
+}
+
+.col50 {
+  width: 50%;
+}
+
+.col-100 {
+  width: 100%;
 }
