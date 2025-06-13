@@ -258,8 +258,8 @@ main h1 {
 }
 
 hr {
-  margin-top: 50px;
-  margin-bottom: 20px;
+  margin-top: 90px;
+  margin-bottom: 40px;
   border-top: 1px solid rgb(207, 206, 206);
 }
 
@@ -351,7 +351,7 @@ h6 {
   border: 1px solid gray;
 }
 
-.btn-partner a {
+.company-info a {
   text-decoration: none;
   color: gray;
 }
@@ -376,7 +376,7 @@ h6 {
 
 footer {
   background-color: black;
-  height: 400px;
+  height: 460px;
   color: white;
   padding-top: 70px;
 
@@ -404,4 +404,21 @@ footer hr {
 
 footer span {
   margin-left: 5px;
+}
+
+
+/*hover e stili vari*/
+
+.hover-blue:hover {
+  color: blue;
+  border-bottom: 1px solid blue;
+}
+
+.hover-lux:hover {
+  background-color: rgb(34, 34, 255);
+}
+
+.btn-partner:hover {
+  background-color: gray;
+  color: white;
 }
