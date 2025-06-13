@@ -101,6 +101,17 @@
   display: flex;
 }
 
+.wrap {
+  flex-wrap: wrap;
+}
+
+.col30 {
+  width: 30%;
+  height: 400px;
+  background-color: aquamarine;
+  border: 1px solid black;
+}
+
 .col260 {
   width: 280px;
   height: 680px;
@@ -118,6 +129,8 @@
 .col60 {
   width: 60%;
 }
+
+
 
 .p-15 {
   padding: 15px;
